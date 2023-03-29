@@ -156,3 +156,10 @@ select {
     background: white;
     color: rgb(255, 0, 179);
 }
+.gif{
+    padding: 24px;
+    width: 30%;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
